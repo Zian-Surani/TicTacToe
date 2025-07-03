@@ -18,7 +18,6 @@ This web-based version brings the traditional game into a clean, responsive, and
 
 ## 🛠 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (Vanilla JS)
 - **No Frameworks:** Pure, beginner-friendly code
 
 ## 🚀 Getting Started
